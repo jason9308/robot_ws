@@ -1,0 +1,1 @@
+This project aims to help the elderly who most living alone. We want to build a automatic send medicine system. People could speak to the maching (ex: send medicine to whom at what time), than it would send medicine to somebody at specific time. The hardware uses Tracer and Xarms Lyte6.
